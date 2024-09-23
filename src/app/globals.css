@@ -25,3 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.delete{
+  width: 120px;
+}
